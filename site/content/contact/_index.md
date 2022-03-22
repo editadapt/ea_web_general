@@ -1,9 +1,9 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/2020_ea_logo.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+  - heading: Adresse
+    text: "10 rue de la salle l'évêque, 34 000 Montpellier, France."
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---

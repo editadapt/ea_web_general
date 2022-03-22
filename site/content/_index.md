@@ -1,6 +1,6 @@
 ---
-title: "Publiez mieux"
-subtitle: Vos documents, livres et productions éditoriales adaptées aux lecteurs
+title: " Publiez mieux "
+subtitle: " Vos documents, livres et productions éditoriales adaptées aux lecteurs "
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Éditadapt?
