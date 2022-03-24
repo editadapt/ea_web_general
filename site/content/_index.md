@@ -1,7 +1,7 @@
 ---
-title: " Publiez mieux "
+title: " Publiez accessible "
 subtitle: " Vos documents, livres et productions éditoriales adaptées aux lecteurs "
-image: /img/home-jumbotron.jpg
+image: /img/0ea_albert-detail-1.png
 blurb:
     heading: Éditadapt?
     text: "Forts de 25 ans d'expérience nous proposons de vous accompagner pour améliorer la qualité de vos publications numériques et le confort de votre travail."

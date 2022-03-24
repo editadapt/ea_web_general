@@ -38,6 +38,9 @@
 
 .bg-primary {
   background-color: var(--primary);
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  
 }
 
 .bg-highlight {

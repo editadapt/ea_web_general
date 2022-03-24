@@ -1,55 +1,35 @@
 ---
-title: Our Coffee
+title: Des outils à votre mesure
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Systèmes d'information & de publication
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Systèmes d'information & de publication
+  Chaînes de production pour une édition nativement accessible ou adaptée à des besoins particuliers
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Nous vous accompagnons dans la compréhension et la maîtrise des technologies de publication et de production.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Nous vous accompagnons dans la mise en place et le développement d'outils de production.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+       Édition nativement accessible
+        Intégrez l'accessibilité numérique à vos outils et publications numériques !
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Édition adaptée
+        Maîtrisez les formats et les outils pour vous concentrer sur votre métier
+  heading: Systèmes d'information & de publication
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Chaînes de production pour une édition nativement accessible ou adaptée à des besoins particuliers
 main:
-  heading: Great coffee with no compromises
+  heading: Du prototype à la mise en oeuvre
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Nous vous aidons à concevoir, réaliser et mettre en oeuvre les outils  et technologies qui vous permettront de vous consacrer à votre métier.
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
