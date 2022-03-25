@@ -9,9 +9,9 @@ intro:
     heading: "Notre offre"
     text: "Nous proposons des services d'accompagnement, de formation et de réalisation pour vos flux de travail."
 products:
-    - image: img/illustrations-coffee.svg
+    - image: img/ea-picto-liseuse.svg
       text: "Nous formons vos équipes aux technologies d'édition numériques et à l'accessibilité native."
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/ea-picto-biblio.svg
       text: "Nous assurons la maîtrise d'oeuvre de projets informatiques complexes pour la production et la diffusion de vos publications."
 values:
     heading: Nos valeurs
